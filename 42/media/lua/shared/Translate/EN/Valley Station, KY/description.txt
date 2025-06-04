@@ -1,4 +1,4 @@
 <CENTRE> <SIZE:medium> VALLEY STATION <LINE> <LINE>
 <LEFT> <SIZE:small> Just south of Louisville lies Valley Station, a large, spread-out town with a perfect mix of suburbs and nature. <LINE><LINE>
-Its close proximity to Louisville makes it a perfect place to get some respite from the busy urban life, but Valley Station offers so much more. Perhaps you can explore the Crossroads Mall, the largest shopping destination in Knox Country outside of Louisville. Or, check out the Drag Racing racetrack and feel the thrill of roaring engines. And if it's hunting that interests you, don't worry -  the Knob Creek Hunting Lodge has you covered!<LINE><LINE>
-Whatever your interests are , Valley Station has something to offer!
+Its close proximity to Louisville makes it a perfect place to get some respite from the busy urban life, but Valley Station offers so much more. Perhaps you can explore the Crossroads Mall, the largest shopping destination in Knox Country outside of Louisville. Or, check out the Drag Racing racetrack and feel the thrill of roaring engines. And if it's hunting that interests you, the Knob Creek Hunting Lodge has you covered!<LINE><LINE>
+Whatever your interests are, Valley Station has something to offer!

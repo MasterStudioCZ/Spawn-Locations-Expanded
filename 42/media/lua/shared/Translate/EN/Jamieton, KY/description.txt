@@ -1,2 +1,3 @@
 <CENTRE> <SIZE:medium> JAMIETON <LINE> <LINE>
-<LEFT> <SIZE:small> l <LINE><LINE>
+<LEFT> <SIZE:small>Jamieton is a small unincorporated area tucked between fertile farmland and dense forests of central Knox Country, located just a few miles southwest of Fallas Lake. Due to a lack of any accommodation, it is not a place where you can spend a night. However, its relatively high number of facilities make it a worthwhile stop for those heading towards Ekron or Rosewood. Travellers can visit a local restaurant, a Food Market store, or even a car repair shop.<LINE><LINE>
+While a mere blip on a map to most, it is renowned among the region's gun enthusiasts and outdoor types as a home to Jamieton Army Surplus, an army surplus store with the some of the highest-grade firearms and survival supplies in Knox Country.  The community also serves as the entry point to one of the largest camps in Knox Country, Camp Busy Beaver.
